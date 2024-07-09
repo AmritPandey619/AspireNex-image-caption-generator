@@ -2,7 +2,7 @@
 
 ![Caption Generator Demo](resource/demo.gif)
 
-##Demo
+## Demo
 https://aspirenex-image-caption-generator-oubuuhprwwtwu9xgyadiem.streamlit.app/
 
 ## Overview
