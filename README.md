@@ -2,6 +2,9 @@
 
 ![Caption Generator Demo](resource/demo.gif)
 
+##Demo
+https://aspirenex-image-caption-generator-oubuuhprwwtwu9xgyadiem.streamlit.app/
+
 ## Overview
 
 This repository contains code for an image caption generation system using deep learning techniques. The system leverages a pretrained VGG16 model for feature extraction and a custom captioning model which was trained using LSTM for generating captions. The model is trained on the Flickr8k dataset using an attention mechanism to improve caption quality.
